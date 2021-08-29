@@ -1,0 +1,26 @@
+This README file contains information on the contents of the meta-openpnp layer.
+
+Please see the corresponding sections below for details.
+
+Dependencies
+============
+
+Patches
+=======
+
+Table of Contents
+=================
+
+  I. Adding the meta-openpnp layer to your build
+ II. Misc
+
+
+I. Adding the meta-openpnp layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-openpnp'
+
+II. Misc
+========
+
+Includes recipes to build and package OpenPnP.
